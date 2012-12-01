@@ -114,7 +114,6 @@ L["CFGNAME_SHOWTOTALS"]		= "Show totals"
 L["CFGDESC_SHOWTOTALS"]		= "Show totals of all your characters on this realm"
 
 L["CFGPAGE_COLUMNS"]		= "Columns"
-L["CFGHDR_GENERAL"]		= "General"
 L["CFGNAME_SHOWCASHPERHOUR"]	= "Show cash per hour"
 L["CFGDESC_SHOWCASHPERHOUR"]	= "Show the cash per hour column"
 L["CFGDESC_SHOWCOLUMNFOR"]	= "Show tooltip column for %s"
